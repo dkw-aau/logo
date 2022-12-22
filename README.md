@@ -1,4 +1,4 @@
-# DKWlogo
+# DKW Logo
 This repository contains logo of DKW in PNG, JPEG, and PPTX (editable form). 
 
 ![Image](https://github.com/dkw-aau/logo/blob/main/DKW-Logo.png)
